@@ -1,4 +1,4 @@
-Apenas um site de portfolio que fiz, para entender melhor o HTML e como funciona, 
+</b>Apenas um site de portfolio que fiz, para entender melhor o HTML e como funciona</b>
 
 Moldei ele em um estilo retrô 98, daí que vem o nome, utilizei tambem o claudefire para a feature de contar as vistias
 
