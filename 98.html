@@ -168,7 +168,7 @@ footer{text-align:center;font-size:12px;padding:8px}
 </div>
 <script>
 // Contador de visitantes únicos (por IP). Cole aqui a URL do seu Worker:
-var WORKER_URL = "https://SEU-WORKER.SEU-USUARIO.workers.dev";
+var WORKER_URL = "https://contador.nikolaemarschall.workers.dev/";
 fetch(WORKER_URL).then(function(r){return r.json()}).then(function(d){
   document.getElementById("contador").textContent = String(d.count).padStart(7,"0");
 }).catch(function(){});
